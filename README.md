@@ -1,1 +1,2 @@
-# go-lang-gin-rest-api-example
+# Rest API using the Gin Web Framework
+
